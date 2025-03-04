@@ -6,7 +6,7 @@
 pip install z-rer
 ```
 
-`rer` (pronounciation: [ɹeɹ]) is useful for simple projects with teams or just solo.
+`rer` (pronounciation: [ɹɝː]) is useful for simple projects with teams or just solo.
 
 ## Demonstration
 
