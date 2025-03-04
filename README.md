@@ -1,12 +1,12 @@
 # RER
 
-Pip `pip` is simple, amazing, just simply amazing. Rer is wrapper that uses pip, but automatically handles updated the requirements.txt file.
+`pip` is simple, amazing, just simply amazing. Rer is wrapper that uses pip, but automatically handles updated the requirements.txt file.
 
 ```bash
 pip install z-rer
 ```
 
-`rer` is useful for simple projects with teams or just solo.
+`rer` (pronounciation: [ɹeɹ]) is useful for simple projects with teams or just solo.
 
 ## Demonstration
 
